@@ -16,13 +16,11 @@
 </p>
 
 ---
-
-
-
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/2a/11/f4/2a11f46a4a073ad24e84f3dc88b44b97.gif"
     width="700"
+    height="360"
     alt="Thor Endgame"
   />
 </p>
