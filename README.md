@@ -6,7 +6,6 @@
 
 ---
 
-## 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
