@@ -23,7 +23,7 @@
   <img 
     src="https://media.tenor.com/wb5ziliowZoAAAAM/thor.gif"
     width="800"
-    height="370"
+    height="350"
     alt="Thor Endgame"
   />
 </p>
