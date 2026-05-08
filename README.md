@@ -11,7 +11,11 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jetpack_Compose_logo.png/250px-Jetpack_Compose_logo.png" />
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jetpack_Compose_logo.png/250px-Jetpack_Compose_logo.png" 
+    height="60"
+    alt="Jetpack Compose"
+  />
 </p>
 
 ---
