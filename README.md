@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I am Himanshu</h1>
 
-## 👨‍💻 About Me
+
+
 - 🌱 I’m currently learning **Android Development**
 - ⚡ Passionate about building modern Android apps
 
 ---
-
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
