@@ -27,12 +27,7 @@
     alt="Thor Endgame"
   />
 </p>
-
 ---
-
-<p align="center">
-  ✨ <b>“Code. Learn. Build. Repeat.”</b> ✨
-</p>
 <!--
 **Himanshuy269/Himanshuy269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
