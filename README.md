@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jetpack_Compose_logo.png/250px-Jetpack_Compose_logo.png" 
-    height="60"
+    height="55"
     alt="Jetpack Compose"
   />
 </p>
@@ -27,7 +27,6 @@
     alt="Thor Endgame"
   />
 </p>
----
 <!--
 **Himanshuy269/Himanshuy269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
