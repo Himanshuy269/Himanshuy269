@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m currently learning **Android Development**
-- ⚡ Passionate about building modern Android apps
+-  I’m currently learning **Android Development**
+-  Passionate about building modern Android apps
 
 ---
 <p>
