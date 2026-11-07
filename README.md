@@ -16,6 +16,7 @@
     height="55"
     alt="Jetpack Compose"
   />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
 </p>
 
 ---
