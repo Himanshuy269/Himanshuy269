@@ -1,7 +1,5 @@
 <!-- <h1 align="center">Hey 👋, I am Himanshu</h1>
 
-
-
 -  I’m currently learning **Android Development**
 -  Passionate about building modern Android apps
 
